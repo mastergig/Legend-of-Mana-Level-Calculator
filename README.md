@@ -1,7 +1,7 @@
 # Legend-of-Mana-Level-Calculator
 Project made to calculate best level up for the game Legend of Mana
 
-## What happened?
+## So what happened?
 I found out the best weapon choices for leveling up on Legend of Mana.
 
 I know, it's an old game, but I was not sure people found out the best combinations so I made this.
@@ -10,7 +10,7 @@ I used some research to find out the level up atributes from weapons and checked
 
 Sorry for the bad written code btw, this was made for fun.
 
-## I don't want to run your code
+# I don't want to run your code
 The code found 6 possible combinations with the most status distributed (618)
 
 Here, the best choices my code found:
